@@ -70,4 +70,9 @@ form.addEventListener("submit", (e) => {
 });
 
 // 页面一打开，先画一次
+document.getElementById("clear-done").addEventListener("click", () => {
+  tasks = tasks.filter((t) => !t.done);
+  save();
+  render();
+});
 render();
