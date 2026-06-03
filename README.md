@@ -84,12 +84,12 @@ todo-app/
 可在所有现代浏览器中运行（Chrome、Edge、Firefox、Safari）。无需任何 polyfill。
 
 ---
+## 协议
+本项目开源
 
 <div align="center">
 
 用 ❤️ 编写，专为学习 Git 而生。
 
-## 协议
-本项目开源
 
 </div>
